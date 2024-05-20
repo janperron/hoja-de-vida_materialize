@@ -1,0 +1,41 @@
+body {
+    margin: 60px;
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: right; 
+    height: 90vh;
+    background-image: url(lat.jpg);
+    background-size: cover;
+}
+.texto{
+    color: white;
+}
+h2 {
+    font-size: 2rem; /
+}
+
+h3 {
+    font-size: 1.75rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+h5 {
+    font-size: 1.25rem;
+}
+
+h6 {
+    font-size: 1rem;
+}
+
+
+li {
+    font-size: 1rem; 
+}
+.imagen {
+    width: 100px;
+    height: 200px;
+}
